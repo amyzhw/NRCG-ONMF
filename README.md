@@ -7,6 +7,6 @@ This work has been accepted as a full paper by CIKM 2016.
 
 
 ## References
-- *Efficient Orthogonal Non-negative Matrix Factorization over Stiefel Manifold*. Wei Emma Zhang, Mingkui Tan, Quan Z. Sheng, Lina Yao and Qinfeng Shi. The 25th ACM International Conference on Information and Knowledge Management (CIKM 2017), Indianapolis, USA, October 2016.
+- [*Efficient Orthogonal Non-negative Matrix Factorization over Stiefel Manifold*](https://dl.acm.org/citation.cfm?doid=2983323.2983761). Wei Emma Zhang, Mingkui Tan, Quan Z. Sheng, Lina Yao and Qinfeng Shi. The 25th ACM International Conference on Information and Knowledge Management (CIKM 2017), Indianapolis, USA, October 2016. [bibTex](https://dblp.uni-trier.de/rec/bibtex/conf/cikm/ZhangTSYS16)
 
 Please cite this paper when you use the codes. Thanks!
